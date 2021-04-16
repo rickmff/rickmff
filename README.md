@@ -1,4 +1,6 @@
+<br/>
 
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/rickmff">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
@@ -7,10 +9,6 @@
 <a href="mailto:m.rickmff@gmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-%20How%20to%20reach%20me%20-red"/>
 </a>
-
-<br/>
-
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
 <br/>
 
