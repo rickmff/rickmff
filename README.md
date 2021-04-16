@@ -29,8 +29,7 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="javascript" width="20" height="20"/>****
-align="center">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
 </p>
 
