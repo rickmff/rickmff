@@ -21,7 +21,7 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20" color="red"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="20" height="20" color="red"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="20" height="20" color="red"/>
@@ -31,11 +31,11 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/>
 <br/>
-</p>
+
 <br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
-
+</p>
 <br/>
 
 <p align="center">
