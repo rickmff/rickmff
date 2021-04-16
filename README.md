@@ -14,10 +14,10 @@
 
 <br/>
 
- � -   🚀 I’m currently working at [ONDIZER](https://ondizer.com/)
- � -   💻 Laravel, Vue.js, Nuxt.js, Next.js
- � -   👨‍💻 All of my projects are available at [rickmff.com](https://rickmff.com)
- � -   ▶️ I regulary post videos on [youtube.com/rickmff](https://youtube.com/rickmff)
+ -   🚀 I’m currently working at [ONDIZER](https://ondizer.com/)
+ -   💻 Laravel, Vue.js, Nuxt.js, Next.js
+ -   👨‍💻 All of my projects are available at [rickmff.com](https://rickmff.com)
+ -   ▶️ I regulary post videos on [youtube.com/rickmff](https://youtube.com/rickmff)
 
 <br/>
 
