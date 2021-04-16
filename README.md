@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**rickmff/rickmff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/micaellimedeiros">
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Micaelli%20Medeiros-blue"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:m.amedeiros@hotmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a>
+
+<br/>
+
+### Hey! Welcome to my profile! How is it going? 👋🥰
+
+- 🚀 I’m currently working at [Rocketseat](https://rocketseat.com.br/)
+- 💻 Node, ReactJS, React Native, Typescript
+- ✨ Learning is continuous and there will always be a next level
