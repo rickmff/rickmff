@@ -1,7 +1,4 @@
-<br/>
-
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
-<br/>
 
 <a href="https://www.linkedin.com/in/rickmff">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
