@@ -30,8 +30,11 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="20" height="20"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
+<br/>
 </p>
+<br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
 
 <br/>
 
