@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
-
 <a href="https://www.linkedin.com/in/rickmff">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
 </a>
@@ -29,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 <img src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
 </p>
 
