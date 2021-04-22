@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
-<p align="center">I'am a Web Developer also Designer focused in UI & UX</p>
+<p align="center">I'm a Web Developer also Designer focused in UI & UX</p>
 
 <br/>
 
