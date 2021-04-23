@@ -22,8 +22,12 @@
 <br/>
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel"  width="100" height="100" color="red"/>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="100" height="100" color="red"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg.svg" alt="mysql" width="30" height="30"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="50" height="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="50" height="50"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 <br/>
 <br/>
 <br/>
