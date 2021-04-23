@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel"  width="100" height="100" color="red"/>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel"  width="100" height="100" color="red"/>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="100" height="100" color="red"/>
 <br/>
 <br/>
