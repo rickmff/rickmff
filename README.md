@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true" alt="rickmff"/> 
+![rickmff's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickmff&count_private=true&show_icons=true&theme=nord)
 </p>
 <br/>
 
