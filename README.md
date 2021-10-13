@@ -14,7 +14,7 @@
 
 <br/>
 
- -   🚀 I’m currently working at [ONDIZER](https://ondizer.com/)
+ -   🚀 I’m currently working at Valtech
  -   💻 Laravel, Vue.js, Nuxt.js, MySQL ...
  -   👨‍💻 All of my projects are available at [rickmff.com](https://rickmff.com)
 
