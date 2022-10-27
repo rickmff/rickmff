@@ -13,7 +13,7 @@
 <br/>
  -   🚀 I’m currently working as a freelancer helping to complete their projects
 <br/>
- -   💻 React.js, Vue.js, Nuxt.js, Next.js ...
+ -   💻 React.js, Vue.js, Nuxt.js, Next.js, Typescript, Javascript ...
 <br/>
  -   👨‍💻 All of my projects are available at https://rickmff.com
 <br/>
