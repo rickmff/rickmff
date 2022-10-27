@@ -12,7 +12,7 @@
 <br/>
  -   🚀 I’m currently working as a freelancer helping to complete their projects
  -   💻 React.js, Vue.js, Nuxt.js, Next.js ...
- -   👨‍💻 All of my projects are available at [rickmff.com](https://rickmff.com)
+ -   👨‍💻 All of my projects are available at https://rickmff.com
 <br/>
 <p align="center">
  
