@@ -24,7 +24,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/>
  
- <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nuxtjs-original.svg" alt="nuxtjs" width="30" height="30"/>
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="30" height="30"/>
 <br/>
 <br/>
 <br/>
