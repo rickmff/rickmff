@@ -5,33 +5,28 @@
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-%20How%20to%20reach%20me%20-red"/>
 </a>
 <br/>
-
 <br/>
-
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
 <p align="center">I'm a Web Developer also Designer focused in UI & UX</p>
-
 <br/>
-
- -   🚀 I’m currently working at Valtech
- -   💻 Laravel, Vue.js, Nuxt.js, MySQL ...
+ -   🚀 I’m currently working as a freelancer helping to complete their projects
+ -   💻 React.js, Vue.js, Nuxt.js, Next.js ...
  -   👨‍💻 All of my projects are available at [rickmff.com](https://rickmff.com)
-
 <br/>
-
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
-  
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
- 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30" height="30"/>
  
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
  
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
  
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="next" width="30" height="30"/>
+
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nextjs" width="30" height="30"/>
+ 
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nuxt" width="30" height="30"/>
 <br/>
 <br/>
 <br/>
