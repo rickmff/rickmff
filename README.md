@@ -7,7 +7,6 @@
 <br/>
 <br/>
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
-<br/>
 <h3 align="center">A.K.A Rick</h3>
 <br/>
 <p align="center">I'm a Web Developer also Designer focused in UI & UX</p>
