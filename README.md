@@ -17,6 +17,8 @@
 <br/>
  -   👨‍💻 All of my projects are available at https://rickmff.com
 <br/>
+<br/>
+<br/>
 <p align="center">
  
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="30" height="30"/>
