@@ -34,10 +34,6 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="30" height="30"/>
  
 <br/>
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rickmff&count_private=true&show_icons=true&theme=nord"/>
 </p>
 <br/>
 
