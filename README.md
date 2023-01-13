@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3=120&section=header"/>
 <a href="https://www.linkedin.com/in/rickmff">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
 </a>
