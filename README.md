@@ -9,7 +9,7 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=5B00D7&center=true&vCenter=true&width=435&height=80&lines=Web+Developer;Designer+UI;Designer+UX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=5B00D7&vCenter=true&width=435&height=100&lines=Web+Developer;Designer+UI;Designer+UX" alt="Typing SVG" /></a>
 <br/>
  -   🚀 I’m currently working as a freelancer helping to complete their projects
 <br/>
