@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF530A=120&section=header"/>
 <a href="https://www.linkedin.com/in/rickmff">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
 </a>
@@ -10,7 +10,7 @@
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=9400D3&vCenter=true&width=435&height=100&lines=Web+Developer;Designer+UI;Designer+UX" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=FF530A&vCenter=true&width=435&height=100&lines=Web+Developer;Designer+UI;Designer+UX" alt="Typing SVG" /></a>
 <br/>
  -   🚀 I’m currently working as a freelancer helping to complete their projects
 <br/>
