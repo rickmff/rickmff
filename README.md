@@ -12,7 +12,7 @@
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=FF530A&vCenter=true&width=435&height=100&lines=Web+Developer;Designer+UI;Designer+UX" alt="Typing SVG" /></a>
 <br/>
- -   🚀 I’m currently working as a freelancer helping to complete their projects
+ -   🚀 I’m currently working as a freelancer
 <br/>
  -   💻 React.js, Vue.js, Nuxt.js, Next.js, Typescript, Javascript ...
 <br/>
