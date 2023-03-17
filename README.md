@@ -9,8 +9,8 @@
 <br/>
 <h1 align="center">Hey ✌, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
-<br/>
 <h2 align="center">Web Developer & Designer Ui / Ux</h1>
+<br/>
 <br/>
  -   🚀 I’m currently working as a freelancer
 <br/>
