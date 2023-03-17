@@ -11,7 +11,6 @@
 <h3 align="center">A.K.A Rick</h3>
 <h2 align="center">Web Developer & Designer Ui / Ux</h1>
 <br/>
-<br/>
  -   🚀 I’m currently working as a freelancer
 <br/>
  -   💻 React.js, Vue.js, Nuxt.js, Next.js, Typescript, Javascript ...
