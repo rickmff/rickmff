@@ -15,7 +15,7 @@
 <br/>
  -   💻 React.js, Vue.js, Nuxt.js, Next.js, Typescript, Javascript
 <br/>
- -   🖥 All of my projects are available at https://rickmff.com ...soon...
+ -   🖥 All of my projects are available at https://rickmff.com
 <br/>
 <br/>
 <br/>
