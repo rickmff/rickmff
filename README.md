@@ -11,11 +11,11 @@
 <h3 align="center">A.K.A Rick</h3>
 <h2 align="center">Web Developer & Designer Ui / Ux</h1>
 <br/>
- -   🚀 I’m currently working as a freelancer
+ -   I am a Front-end web developer with a strong focus on UX and over 7 years of experience across various market segments
 <br/>
  -   💻 React.js, Vue.js, Nuxt.js, Next.js, Typescript, Javascript
 <br/>
- -   🖥 All of my projects are available at https://rickmff.com
+ -   🖥 https://rickmff.com
 <br/>
 <br/>
 <br/>
