@@ -32,7 +32,7 @@
  
 <img align="center" style="margin: 0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
-<img align="center" style="margin: 0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg" alt="javascript" width="30" height="30"/>
+<img align="center" style="margin: 0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="30" height="30"/>
 
 <img align="center" style="margin: 0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="30" height="30"/>
  
