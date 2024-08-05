@@ -11,11 +11,14 @@
 <h3 align="center">A.K.A Rick</h3>
 <h2 align="center">Web Developer & Designer Ui / Ux</h1>
 <br/>
- -   I am a Front-end web developer with a strong focus on UX and over 7 years of experience across various market segments
+ I am a Web developer with a strong focus on UX and over 7 years of experience across various market segments
 <br/>
  -   💻 React, Vue, Nuxt, Next, Typescript, Javascript
 <br/>
  -   🖥 https://rickmff.com
+ - thepokerplanning.com (Wip)
+ - iatools.pro (soon)
+ - budgetfy (soon)
 <br/>
 <br/>
 <br/>
