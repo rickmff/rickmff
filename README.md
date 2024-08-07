@@ -15,7 +15,7 @@
 <br/>
  - 💻 React, Vue, Nuxt, Next, Typescript, Javascript
 <br/>
- - 🖥 https://rickmff.com
+ - 😎 https://rickmff.com
  <br/>
  - ♠️ thepokerplanning.com (Wip)
  <br/>
