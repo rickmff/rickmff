@@ -13,7 +13,7 @@
 <br/>
  I am a Web developer with a strong focus on UX and over 7 years of experience across various market segments
 <br/>
- - 💻 React, Vue, Nuxt, Next, Typescript, Javascript
+ - 💻 React, Vue, Nuxt, Next, Typescript, Javascript, Node
 <br/>
  - 😎 https://rickmff.com
  <br/>
