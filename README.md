@@ -13,11 +13,11 @@
 <br/>
  I am a Web developer with a strong focus on UX and over 7 years of experience across various market segments
 <br/>
- -   💻 React, Vue, Nuxt, Next, Typescript, Javascript
+ - 💻 React, Vue, Nuxt, Next, Typescript, Javascript
 <br/>
- -   🖥 https://rickmff.com
+ - 🖥 https://rickmff.com
  <br/>
- - thepokerplanning.com (Wip)
+ - ♠️ thepokerplanning.com (Wip)
  <br/>
 <br/>
 <br/>
