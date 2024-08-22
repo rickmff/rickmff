@@ -41,13 +41,13 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 
 <div align="center">
   <a href="https://sunnypoolsusa.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sunny_Pools_USA-00A0E3?style=for-the-badge&logo=react&logoColor=white" alt="Sunny Pools USA" />
+    <img src="https://img.shields.io/badge/Sunny_Pools_USA-00A0E3?style=for-the-badge&logo=vue.js&logoColor=white" alt="Sunny Pools USA" />
   </a>
   <a href="https://try.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Try.com.br-FF6B6B?style=for-the-badge&logo=vue.js&logoColor=white" alt="Try.com.br" />
+    <img src="https://img.shields.io/badge/Try.com.br-FF6B6B?style=for-the-badge&logo=next.js&logoColor=white" alt="Try.com.br" />
   </a>
   <a href="https://www.100diasdecodigo.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/100_Dias_de_Codigo-4CAF50?style=for-the-badge&logo=javascript&logoColor=white" alt="100 Dias de Codigo" />
+    <img src="https://img.shields.io/badge/100_Dias_de_Codigo-4CAF50?style=for-the-badge&logo=astro&logoColor=white" alt="100 Dias de Codigo" />
   </a>
 </div>
 
@@ -79,20 +79,23 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 ## 🤝 Let's Connect!
 
 I'm always open to interesting projects and collaborations. Feel free to reach out if you want to discuss web development, design, or just have a chat about the latest tech trends!
-
 <div align="center">
-  <a href="https://codepen.io/rickmff">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  <a href="https://www.linkedin.com/in/rickmff">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/rickmff">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  
+  <a href="mailto:m.rickmff@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://rickmff.com">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="https://twitter.com/rickmff">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rickmff&style=flat-square&color=00C7B7" alt="Profile views" />
-</div>
-
 ---
 
 <div align="center">
