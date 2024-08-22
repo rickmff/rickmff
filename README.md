@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF530A=120&section=header"/>
 <a href="https://www.linkedin.com/in/rickmff">
+<img align="right" alt="LinkedIn" src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today"/>
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
 </a>
 <a href="mailto:m.rickmff@gmail.com">
@@ -11,7 +12,7 @@
 <h3 align="center">A.K.A Rick</h3>
 <h2 align="center">Web Developer & Designer Ui / Ux</h1>
 <br/>
- I am a Web developer with a strong focus on UX and over 7 years of experience across various market segments
+ I am a Web developer with a strong focus on UX and over 7 years of experience
 <br/>
  - 💻 React, Vue, Nuxt, Next, Typescript, Javascript, Node
 <br/>
