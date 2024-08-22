@@ -54,9 +54,9 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmff&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmff&theme=react&hide_border=true" alt="GitHub Streak Stats" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎨 Designfolio
