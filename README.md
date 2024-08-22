@@ -1,4 +1,4 @@
-# Henrique Faria - aka Rick
+# Henrique Faria - Rick - Rickmff
 ## Web Developer & UI/UX Designer 🚀
 
 <div align="center">
