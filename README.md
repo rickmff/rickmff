@@ -69,8 +69,8 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
   <a href="https://www.figma.com/design/TjvvV00g47MGDGpym4hq33/Students-Flow?node-id=1-4&t=VLIluX1rXEYoYWwM-0">
     <img src="https://img.shields.io/badge/Figma-Students_Flow-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Students Flow" />
   </a>
-  <a href="https://www.figma.com/design/A3Dq1rpiEvW4mY9p4rs2Wb/He4rtBlogs?node-id=0-1&t=TOCORfTNn6vdIi4p-0">
-    <img src="https://img.shields.io/badge/Figma-He4rt_Blogs-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="He4rt Blogs" />
+  <a href="https://www.figma.com/design/lli0hrbfiMXMFETglN8dre/Rickmff-Portfolio?node-id=4-1952&t=ypZBvF3BoIOJhf3g-0">
+    <img src="https://img.shields.io/badge/Rickmff-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Rickmff" />
   </a>
 </div>
 
