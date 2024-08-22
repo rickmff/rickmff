@@ -34,7 +34,7 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,html,css,tailwind,figma,openai" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,astro,html,css,tailwind,figma," alt="Tech Stack" />
 </div>
 
 ## 🌟 Featured Projects
