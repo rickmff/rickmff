@@ -1,9 +1,17 @@
-
-<h1 align="center">Hey ✌, I'm Henrique Faria</h1>
-<h3 align="center">A.K.A Rick</h3>
-<h2 align="center">Web Developer & Designer</h1>
+<div>
+<a href="https://www.linkedin.com/in/rickmff"></a>
+<img align="right" alt="Wakatime" src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today"/>
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%20rickmff%20-blue"/>
+<a href="mailto:m.rickmff@gmail.com">
+<img align="right" alt="E-mail" src="https://img.shields.io/badge/-%20How%20to%20reach%20me%20-red"/>
+</a>
+</div>
 <br/>
-
+<br/>
+<h1 align="center">Hey ✌, I'm Henrique Faria</h1>
+<br/>
+<h3 align="center">A.K.A Rick</h3>
+<h2 align="center">Web Developer & Designer UI/UX</h1>
 <br/>
 <br/>
  I am a Web developer with a strong focus on UX and over 7 years of experience
