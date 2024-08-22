@@ -11,7 +11,6 @@
 <h1 align="center">Hey ✌, I'm Henrique Faria</h1>
 <h3 align="center">A.K.A Rick</h3>
 <h2 align="center">Web Developer & Designer UI/UX</h1>
-<h3> I am a Web developer with a strong focus on UX and over 7 years of experience </h3>
  - 💻 React, Vue, Nuxt, Next, Typescript, Javascript, Node
 <br/>
  - 😎 https://rickmff.com
