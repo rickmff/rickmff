@@ -2,6 +2,10 @@
 ## Web Developer & UI/UX Designer 🚀
 
 <div align="center">
+  <img src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today" alt="Wakapi Badge" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+%7C+Vue+%7C+TypeScript;Next.js+%7C+Nuxt.js+%7C+Node.js;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
@@ -56,7 +60,6 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 
 <div align="center">
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=rickmff&theme=react&hide_border=true" alt="GitHub Streak Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=rickmff&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -94,6 +97,7 @@ I'm always open to interesting projects and collaborations. Feel free to reach o
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
 ---
 
 <div align="center">
