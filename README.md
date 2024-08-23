@@ -10,19 +10,19 @@
 <br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rickmff">
+  <a href="https://www.linkedin.com/in/rickmff" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:m.rickmff@gmail.com">
+  <a href="mailto:m.rickmff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://rickmff.com">
+  <a href="https://rickmff.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   
-  <a href="https://twitter.com/rickmff">
+  <a href="https://twitter.com/rickmff" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
@@ -37,7 +37,9 @@
 
 Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
 
-- 🔭 Currently working on: [The Poker Planning](https://thepokerplanning.com) (WIP)
+- 🔭 Currently working on: 
+  - [The Poker Planning](https://thepokerplanning.com) (WIP)
+  - [PlantPal](https://plantpal.com) (Soon)
 - 🌱 Always learning and exploring new technologies
 - 💡 Passionate about clean code and pixel-perfect designs
 - 🎨 Blending functionality with aesthetics in every project
@@ -68,18 +70,17 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
     <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rickmff&api_domain=wakapi.dev&bg_color=20222A&border_color=20222A&title_color=41B883&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
-<!-- Rest of the content remains the same -->
 
 ## 🎨 Designfolio
 
 <div align="center">
-  <a href="https://www.figma.com/design/eKlYykZ0b69vstg74vzxP4/100DiasDeCodigo?node-id=1-2&t=VLIluX1rXEYoYWwM-0">
+  <a href="https://www.figma.com/design/eKlYykZ0b69vstg74vzxP4/100DiasDeCodigo?node-id=1-2&t=VLIluX1rXEYoYWwM-0" target="_blank">
     <img src="https://img.shields.io/badge/Figma-100_Dias_De_Codigo-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="100 Dias De Codigo" />
   </a>
-  <a href="https://www.figma.com/design/TjvvV00g47MGDGpym4hq33/Students-Flow?node-id=1-4&t=VLIluX1rXEYoYWwM-0">
+  <a href="https://www.figma.com/design/TjvvV00g47MGDGpym4hq33/Students-Flow?node-id=1-4&t=VLIluX1rXEYoYWwM-0" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Students_Flow-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Students Flow" />
   </a>
-  <a href="https://www.figma.com/design/lli0hrbfiMXMFETglN8dre/Rickmff-Portfolio?node-id=4-1952&t=ypZBvF3BoIOJhf3g-0">
+  <a href="https://www.figma.com/design/lli0hrbfiMXMFETglN8dre/Rickmff-Portfolio?node-id=4-1952&t=ypZBvF3BoIOJhf3g-0" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Rickmff-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Rickmff" />
   </a>
 </div>
@@ -88,19 +89,19 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 
 I'm always open to interesting projects and collaborations. Feel free to reach out if you want to discuss web development, design, or just have a chat about the latest tech trends!
 <div align="center">
-  <a href="https://www.linkedin.com/in/rickmff">
+  <a href="https://www.linkedin.com/in/rickmff" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:m.rickmff@gmail.com">
+  <a href="mailto:m.rickmff@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
-  <a href="https://rickmff.com">
+  <a href="https://rickmff.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   
-  <a href="https://twitter.com/rickmff">
+  <a href="https://twitter.com/rickmff" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
