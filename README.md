@@ -1,9 +1,13 @@
 # Henrique Faria - Rick - Rickmff
 ## Web Developer & UI/UX Designer 🚀
 
+<br />
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+%7C+Vue+%7C+TypeScript;Next.js+%7C+Nuxt.js+%7C+Node.js;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
+
+<br />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rickmff">
@@ -22,6 +26,8 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today" alt="Wakapi Badge" />
@@ -59,7 +65,7 @@ Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="500px" src="https://wakapi.dev/api/activity/chart/rickmff.svg" alt="Wakapi Activity Chart" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rickmff&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 <!-- Rest of the content remains the same -->
