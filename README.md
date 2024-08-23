@@ -2,10 +2,6 @@
 ## Web Developer & UI/UX Designer 🚀
 
 <div align="center">
-  <img src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today" alt="Wakapi Badge" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+%7C+Vue+%7C+TypeScript;Next.js+%7C+Nuxt.js+%7C+Node.js;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
@@ -25,6 +21,10 @@
   <a href="https://twitter.com/rickmff">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today" alt="Wakapi Badge" />
 </div>
 
 ## 👨‍💻 About Me
