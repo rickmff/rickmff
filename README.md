@@ -1,7 +1,5 @@
 <div align="center">
-<h1>Henrique Faria <br />
-  <p>Rick - Rickmff</p>
-</h1> 
+<h1>Rick - Rickmff</h1> 
 </div>
 <br />
 
@@ -37,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
+Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
 
 - 🔭 Currently working on: 
   - [The Poker Planning](https://thepokerplanning.com) (Work tool)
