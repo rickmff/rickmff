@@ -1,5 +1,6 @@
-# Henrique Faria - Rick - Rickmff
-
+<div align="center">
+<h1>Henrique Faria - Rick - Rickmff</h1> 
+</div>
 <br />
 
 <div align="center">
