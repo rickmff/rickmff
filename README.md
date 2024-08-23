@@ -51,7 +51,7 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,astro,html,css,tailwind,figma," alt="Tech Stack" />
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Public Projects
 
 <div align="center">
   <a href="https://sunnypoolsusa.com/" target="_blank">
