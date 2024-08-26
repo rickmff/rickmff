@@ -39,7 +39,7 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
 
 - 🔭 Currently working on: 
   - [The Poker Planning](https://thepokerplanning.com) (Work tool)
-  - [PlantPal](https://plantpal.com) (New AI project)
+  - [PlantDex](https://plantDex.pro) (New AI project)
   - [Im-Vestor](https://www.im-vestor.com/en) (Design rebrand)
 
 ## 🛠️ Tech Stack
