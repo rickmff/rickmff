@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="[https://wakapi.dev/api/badge/rickmff/rickmff/interval:30_days?label=last%2030d](https://wakapi.dev/api/badge/rickmff/rickmff/interval:30_days?label=last%2030d)" alt="Wakapi Badge" />
+  <img src="https://wakapi.dev/api/badge/rickmff/rickmff/interval:30_days?label=last%2030d" alt="Wakapi Badge" />
 </div>
 
 ## 👨‍💻 About Me
