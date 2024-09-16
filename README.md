@@ -40,7 +40,7 @@
 Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
 
 - 🔭 Currently working on: 
-  - [The Poker Planning](https://thepokerplanning.com) (Work tool)
+  - [The Scrum Planning]([https://thepokerplanning.com](https://thescrumplanning.site/)) (Work tool)
   - [PlantDex](https://plantDex.pro) (New AI project)
   - [Im-Vestor](https://www.im-vestor.com/en) (Design rebrand)
 
