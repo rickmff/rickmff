@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Henrique Faria - Rickmff</h1> 
+<h1>Henrique Faria - Rick</h1> 
   
 </div>
 <br />
