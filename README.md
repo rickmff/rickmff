@@ -39,7 +39,7 @@
 
 Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
 
-- 🔭 Currently working on: 
+### 🔭 Currently working on: 
   - [The Scrum Planning](https://thescrumplanning.site/) (Work tool)
   - [PlantDex](https://plantDex.pro) (New AI project)
   - [KeyBurn](https://keyburn.site) (Type fast focused in code)
