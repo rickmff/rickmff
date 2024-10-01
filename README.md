@@ -51,7 +51,7 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,astro,html,css,tailwind,figma," alt="Tech Stack" />
 </div>
 
-## 🌟 Public Projects
+## 🌟 Top 3 - Public Projects
 
 <div align="center">
   <a href="https://sunnypoolsusa.com/" target="_blank">
@@ -72,7 +72,7 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🎨 Designfolio
+## 🎨 Top 3 - Designfolio
 
 <div align="center">
   <a href="https://www.figma.com/design/eKlYykZ0b69vstg74vzxP4/100DiasDeCodigo?node-id=1-2&t=VLIluX1rXEYoYWwM-0" target="_blank">
