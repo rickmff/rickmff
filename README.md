@@ -10,12 +10,6 @@
 
 Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
 
-### 🔭 Currently working on: 
-  - [The Scrum Planning](https://thescrumplanning.site/)
-  - [PlantDex](https://plantDex.pro) (alpha)
-  - [KeyBurn](https://keyburn.site)
-  - [Love Check](https://lovecheck.us/) (beta)
-
 ## 🛠️ Tech Stack
 
 <div align="center">
