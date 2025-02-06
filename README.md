@@ -6,10 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://wakapi.dev/api/badge/rickmff/interval:today?label=today" alt="Wakapi Badge" />
-</div>
-
 ## 👨‍💻 About Me
 
 Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
@@ -38,13 +34,6 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <a href="https://www.100diasdecodigo.dev/" target="_blank">
     <img src="https://img.shields.io/badge/100_Dias_de_Codigo-4CAF50?style=for-the-badge&logo=astro&logoColor=white" alt="100 Dias de Codigo" />
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/wakatime?username=rickmff&api_domain=wakapi.dev&bg_color=20222A&border_color=20222A&title_color=41B883&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickmff&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🎨 Top 3 - Designfolio
