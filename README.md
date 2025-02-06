@@ -9,26 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=React+%7C+Vue+%7C+Svelt;Next.js+%7C+Nuxt.js+%7C+Node.js;UI%2FUX+Design+Enthusiast;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
 
-<br />
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rickmff" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:m.rickmff@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://rickmff.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <a href="https://twitter.com/rickmff" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
 <br/>
 
 <div align="center">
