@@ -16,31 +16,15 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,astro,html,css,tailwind,figma," alt="Tech Stack" />
 </div>
 
-## 🌟 Top 3 - Public Projects
-
 <div align="center">
   <a href="https://sunnypoolsusa.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sunny_Pools_USA-00A0E3?style=for-the-badge&logo=vue.js&logoColor=white" alt="Sunny Pools USA" />
+    <img src="https://img.shields.io/badge/Rickmff-00A0E3?style=for-the-badge&logo=vue.js&logoColor=white" alt="Rickmff" />
   </a>
   <a href="https://try.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Try.com.br-FF6B6B?style=for-the-badge&logo=next.js&logoColor=white" alt="Try.com.br" />
+    <img src="https://img.shields.io/badge/Yllw.Software-FF6B6B?style=for-the-badge&logo=next.js&logoColor=white" alt="Yllw.Software" />
   </a>
   <a href="https://www.100diasdecodigo.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/100_Dias_de_Codigo-4CAF50?style=for-the-badge&logo=astro&logoColor=white" alt="100 Dias de Codigo" />
-  </a>
-</div>
-
-## 🎨 Top 3 - Designfolio
-
-<div align="center">
-  <a href="https://www.figma.com/design/eKlYykZ0b69vstg74vzxP4/100DiasDeCodigo?node-id=1-2&t=VLIluX1rXEYoYWwM-0" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-100_Dias_De_Codigo-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="100 Dias De Codigo" />
-  </a>
-  <a href="https://www.figma.com/design/TjvvV00g47MGDGpym4hq33/Students-Flow?node-id=1-4&t=VLIluX1rXEYoYWwM-0" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-Students_Flow-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Students Flow" />
-  </a>
-  <a href="https://www.figma.com/design/lli0hrbfiMXMFETglN8dre/Rickmff-Portfolio?node-id=4-1952&t=ypZBvF3BoIOJhf3g-0" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-Rickmff-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Rickmff" />
+    <img src="https://img.shields.io/badge/KeyBurn-4CAF50?style=for-the-badge&logo=astro&logoColor=white" alt="KeyBurn" />
   </a>
 </div>
 
