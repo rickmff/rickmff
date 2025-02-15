@@ -20,10 +20,6 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
-Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX designer with a knack for creating seamless, user-centric digital experiences. I thrive on turning complex problems into elegant, intuitive solutions.
-
 ## 🛠️ Tech Stack
 
 <div align="center">
