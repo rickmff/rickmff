@@ -16,6 +16,8 @@ Hey there! I'm Henrique Faria aka Rick, a passionate web developer and UI/UX des
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,nextjs,nuxtjs,astro,html,css,tailwind,figma," alt="Tech Stack" />
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://sunnypoolsusa.com/" target="_blank">
     <img src="https://img.shields.io/badge/Rickmff-00A0E3?style=for-the-badge&logo=vue.js&logoColor=white" alt="Rickmff" />
