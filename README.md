@@ -1,3 +1,3 @@
-- Current side project on finneaty
+- Working: [finneaty](https://www.finneaty.com/)
 - Studying [deeplearn](https://github.com/rickmff/deeplearn)
 - Last delivery: [doitfirst](https://chromewebstore.google.com/detail/doitfirst/mjookhejbgffdhaiibcdkfmmhbocdgea)
