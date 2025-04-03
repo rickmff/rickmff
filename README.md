@@ -1,4 +1,4 @@
 - Working: [finneaty](https://www.finneaty.com/)
 - Studying: [deeplearn](https://github.com/rickmff/deeplearn)
-- Reading: [The Champion's Mind](https://heather-carpenter-e0c.notion.site/The-Champion-s-Mind-1c62c1671f28806987cad43e32d12949)
+- Reading: [O Obstáculo é o Caminho](https://heather-carpenter-e0c.notion.site/O-Obst-culo-o-Caminho-1a42c1671f28811e8184dda182b3cb8f?pvs=4)
 - Last deliver: [doitfirst](https://chromewebstore.google.com/detail/doitfirst/mjookhejbgffdhaiibcdkfmmhbocdgea)
