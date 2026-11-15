@@ -2,4 +2,4 @@
 - Last deliver: [Menu Online](https://menuonline.site/)
 - My Website: [rickmff](https://rickmff.com/work)
 
-- Building: https://www.uselano.ai/pt
+- Building: [Lano](https://www.uselano.ai)
